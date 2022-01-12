@@ -5,3 +5,5 @@
 + https://github.com/q977734161/cas
 ## 3. 三方登录
 + https://github.com/q977734161/JustAuth
+## 4. 权限管理
+https://gitee.com/y_project/RuoYi.git
