@@ -7,3 +7,6 @@
 + https://github.com/q977734161/JustAuth
 ## 4. 权限管理
 https://gitee.com/y_project/RuoYi.git
+## 5. Spring 文档
+https://docs.spring.io/spring-data
+https://docs.spring.io/spring/docs
