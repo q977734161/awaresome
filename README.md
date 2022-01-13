@@ -10,3 +10,8 @@ https://gitee.com/y_project/RuoYi.git
 ## 5. Spring 文档
 https://docs.spring.io/spring-data
 https://docs.spring.io/spring/docs
+## 6. 求平方根
+```
+## Spring 文档
+https://docs.spring.io/spring-data
+https://docs.spring.io/spring/docs
