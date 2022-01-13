@@ -12,6 +12,16 @@ https://docs.spring.io/spring-data
 https://docs.spring.io/spring/docs
 ## 6. 求平方根
 ```
-## Spring 文档
-https://docs.spring.io/spring-data
-https://docs.spring.io/spring/docs
+double Sqrt(double A) {
+        double x0 = A + 0.25, x1, xx = x0;
+        for (; ; ) {
+            x1 = (x0 * x0 + A) / (2 * x0);
+            if (Math.abs(x1 - x0) <= 0.0000001) break;
+            if (xx == x1) break; // to break two value cycle.
+            xx = x0;
+            x0 = x1;
+        }
+
+        return x1;
+    }
+```java
