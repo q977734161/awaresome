@@ -25,3 +25,5 @@ double Sqrt(double A) {
         return x1;
     }
 ```
+## 7. 30天学习javascript
++ https://github.com/q977734161/30-Days-Of-JavaScript
