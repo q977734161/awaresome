@@ -40,3 +40,5 @@ double Sqrt(double A) {
 + https://github.com/q977734161/gl-matrix
 ## 13. idea tools
 + https://juejin.cn/post/7028025194048405534
+## 14. 规则引擎
++ https://github.com/q977734161/siddhi
