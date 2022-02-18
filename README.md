@@ -42,3 +42,5 @@ double Sqrt(double A) {
 + https://juejin.cn/post/7028025194048405534
 ## 14. 规则引擎
 + https://github.com/q977734161/siddhi
+## 15. 有趣的项目
++ https://github.com/q977734161/Awesome-GitHub-Repo
