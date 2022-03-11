@@ -56,3 +56,27 @@ ToolJet 是一个开源的低代码框架，可以快速构建和部署内部工
 + https://github.com/vert-x3
 ## 20. 爬虫
 + https://github.com/q977734161/NetDiscovery
+## 21. 小程序
++ https://github.com/q977734161/WeApp_Demos
++ 返利优惠券小程序模板
+电商优惠券方向，离钱很近。在未来 10 年尺度上都可以持续赚钱。
+开源项目地址：https://github.com/AmateurEvents/coupon
++ 基于淘客助手 API 和淘宝官方 API 的领优惠券小程序
+看名字就知道，当前最火的全面赚钱项目之一。
+开源项目地址：https://github.com/HunterXuan/E-Coupon
++ 美团饿了么红包，先领红包再下单
+外卖红包，CPS 分成，别人领红包下单，你拿佣金。
+开源项目地址：https://github.com/zwpro/coupons
++ 微信红包封面领取
+用户观看视频广告或者邀请用户可获取微信红包序列号。
+开源项目地址：https://github.com/zwpro/redCover
++ 账号助手微信小程序
+一个用于存储账号和密码的小程序，使用微信小程序云开发，免服务器。
+开源项目地址：https://github.com/aab0/zhanghaozhushou
++ 老黄历微信小程序
+支持宜 / 忌事项查阅。算命是一个巨大的行业，利润大的超乎很多人的想象。
+开源项目地址：https://github.com/mailzwj/laohuangli
++ 多肉物语
+多肉花卉的百科小程序。多肉是一个会让人上瘾的东西，行业潜力巨大。
+开项目地址：https://github.com/FishInPool/duo1
+开源项目地址：https://github.com/JackonYang/list-of-wechat-mini-program-list
