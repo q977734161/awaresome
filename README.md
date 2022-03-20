@@ -81,3 +81,31 @@ ToolJet 是一个开源的低代码框架，可以快速构建和部署内部工
 多肉花卉的百科小程序。多肉是一个会让人上瘾的东西，行业潜力巨大。
 开项目地址：https://github.com/FishInPool/duo1
 开源项目地址：https://github.com/JackonYang/list-of-wechat-mini-program-list
+## 22. java 安装
+```
+安装java8
+
+sudo add-apt-repository ppa:webupd8team/java
+sudo apt-get update
+sudo apt-get install oracle-java8-installer
+
+查看java是否安装成功
+java -version
+
+该版本java设为默认
+sudo apt-get install oracle-java8-set-default
+
+ 
+
+安装java11
+
+sudo add-apt-repository ppa:linuxuprising/java
+sudo apt-get update
+sudo apt-get install oracle-java11-installer
+
+查看java是否安装成功
+java -version
+
+该版本java设为默认
+sudo apt-get install oracle-java11-set-default
+```
