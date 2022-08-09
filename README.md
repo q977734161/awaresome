@@ -112,3 +112,7 @@ sudo apt-get install oracle-java11-set-default
 
 ## 23、docker-hive
 https://github.com/q977734161/docker-hive
+
+## 24、加速工具
++ https://github.com/q977734161/SteamTools
++ https://github.com/2dust/v2rayN/releases
