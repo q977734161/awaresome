@@ -116,3 +116,7 @@ https://github.com/q977734161/docker-hive
 ## 24、加速工具
 + https://github.com/q977734161/SteamTools
 + https://github.com/2dust/v2rayN/releases
+## 25、c/c++工具
++ https://github.com/ithewei/libhv.git
++ https://github.com/Light-City/CPlusPlusThings.git
++ https://github.com/tmux/tmux.git
