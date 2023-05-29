@@ -121,3 +121,5 @@ https://github.com/q977734161/docker-hive
 + https://github.com/Light-City/CPlusPlusThings.git
 + https://github.com/tmux/tmux.git
 + https://github.com/0voice
+## 26、markdown editor
++ https://github.com/Tencent/cherry-markdown.git
