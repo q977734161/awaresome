@@ -123,3 +123,5 @@ https://github.com/q977734161/docker-hive
 + https://github.com/0voice
 ## 26、markdown editor
 + https://github.com/Tencent/cherry-markdown.git
+## 27、linux文件监控
++ https://github.com/q977734161/inotify-java
