@@ -145,3 +145,5 @@ myscan 是一个多线程扫描 ip 端口的程序，代码简单不复杂，适
 ## 33、db_tutorial
 用 C 从零创建一个简单的数据库。
 + https://github.com/cstack/db_tutorial
+## 34、os课程
++ https://github.com/cstack/osdev?tab=readme-ov-file
