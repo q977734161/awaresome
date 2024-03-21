@@ -128,7 +128,7 @@ https://github.com/q977734161/docker-hive
 ## 27、linux文件监控
 + https://github.com/q977734161/inotify-java
 ## 28、Tinyhttpd（10.9k+ star）
-+ https://github.com/cstack/db_tutorial
++ https://github.com/EZLippi/Tinyhttpd
 一个不到 500 行的超轻量型 HTTP Server，可以用来理解服务器程序的原理和本质。
 ## 29、myscan
 myscan 是一个多线程扫描 ip 端口的程序，代码简单不复杂，适合初学者作为练手的学习项目。
@@ -142,3 +142,6 @@ myscan 是一个多线程扫描 ip 端口的程序，代码简单不复杂，适
 ## 32、smartdns
 一个运行在本地的 DNS 服务器。能够提高网络访问速度等诸多妙用
 + https://github.com/pymumu/smartdns
+## 33、db_tutorial
+用 C 从零创建一个简单的数据库。
++ https://github.com/cstack/db_tutorial
