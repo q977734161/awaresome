@@ -127,3 +127,18 @@ https://github.com/q977734161/docker-hive
 + https://github.com/Tencent/cherry-markdown.git
 ## 27、linux文件监控
 + https://github.com/q977734161/inotify-java
+## 28、Tinyhttpd（10.9k+ star）
++ https://github.com/cstack/db_tutorial
+一个不到 500 行的超轻量型 HTTP Server，可以用来理解服务器程序的原理和本质。
+## 29、myscan
+myscan 是一个多线程扫描 ip 端口的程序，代码简单不复杂，适合初学者作为练手的学习项目。
++ https://github.com/nobackdoor/myscan
+## 30、DungeonRush
+元气贪吃蛇游戏，这个项目基于传统贪吃蛇进行了一些玩法上的创新，很适合 C 语言初学者
++ https://github.com/rapiz1/DungeonRush
+## 31、acwj
+教你写 C 语言编译器的实战教程。
++ https://github.com/DoctorWkt/acwj
+## 32、smartdns
+一个运行在本地的 DNS 服务器。能够提高网络访问速度等诸多妙用
++ https://github.com/pymumu/smartdns
