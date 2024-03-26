@@ -147,3 +147,10 @@ myscan 是一个多线程扫描 ip 端口的程序，代码简单不复杂，适
 + https://github.com/cstack/db_tutorial
 ## 34、os课程
 + https://github.com/cstack/osdev?tab=readme-ov-file
+## 35、Wasmtime是Bytecode Alliance为WebAssembly、WASI和组件模型提供的独立运行时。
++ https://github.com/bytecodealliance/wasmtime
+## 36、Rust web框架
++ https://github.com/rwf2/Rocket
++ https://github.com/actix/actix-web
+## 37、tikv 分布式kv存储
++ https://github.com/tikv/tikv?tab=readme-ov-file
