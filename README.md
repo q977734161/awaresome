@@ -157,3 +157,5 @@ myscan 是一个多线程扫描 ip 端口的程序，代码简单不复杂，适
 + https://github.com/pingcap/tiflash.git
 ## 38、pdf文档处理
 + https://github.com/Stirling-Tools/Stirling-PDF
+## 39、漫画生成、视频生成开源项目
++ https://github.com/HVision-NKU/StoryDiffusion
