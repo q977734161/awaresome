@@ -159,3 +159,20 @@ myscan 是一个多线程扫描 ip 端口的程序，代码简单不复杂，适
 + https://github.com/Stirling-Tools/Stirling-PDF
 ## 39、漫画生成、视频生成开源项目
 + https://github.com/HVision-NKU/StoryDiffusion
+## 40、今日穿搭
++ https://github.com/levihsu/OOTDiffusion
+中国开发者在 GitHub 开源了一个名为 OOTDiffusion 的项目，基于“Outfitting Fusion”的潜在扩散模型，用于可控的虚拟试穿。
+该技术可以应用于时尚和零售行业，为用户提供一种新颖的试衣体验，让用户能够看到自己穿上不同服装的样子，而无需实际试穿。
+项目在 arXiv 上发布了相关的研究论文 《OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on》，供有兴趣的研究者和开发者进一步了解和引用。
+## 41、抓取网站转化成
++ https://github.com/mendableai/firecrawl
+Firecrawl 是由 mendable.ai 开源，目前处于早期开发阶段，对于希望利用 LLM 进行内容分析或生成的开发者来说可能是一个有用的工具。
+这是一个 API 服务，它能够抓取一个网站并将其转换为适用于大型语言模型（LLM）的清晰  Markdown 格 式。该服务旨在通过使用干净的数据来提升LLM响应的准确性。
+它的主要功能如下：
+网站爬取与转换: Firecrawl 可以爬取给定 URL 及其所有可访问的子页面，并为每个页面提供清晰的 Markdown 格式。
+API服务: 提供易于使用的API
+SDK支持: 提供 Python 和 Node 的 SDK，以及与 Langchain 的集成。
+## 42、AI 角色扮演
++ https://github.com/SillyTavern/SillyTavern
+SillyTavern 一个基于 AI 的角色扮演开源项目，你可以自己创建妹子，通过聊天或角色扮演与自定义的角色进行互动、聊天。
+该开源项目提供了Windows、Linux、MacOS 以及 Android 的安装指南。支持多个 AI 后端，包括 KoboldAI、Horde、NovelAI、Ooba、OpenAI 等。
