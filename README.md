@@ -161,11 +161,13 @@ myscan 是一个多线程扫描 ip 端口的程序，代码简单不复杂，适
 + https://github.com/HVision-NKU/StoryDiffusion
 ## 40、今日穿搭
 + https://github.com/levihsu/OOTDiffusion
+
 中国开发者在 GitHub 开源了一个名为 OOTDiffusion 的项目，基于“Outfitting Fusion”的潜在扩散模型，用于可控的虚拟试穿。
 该技术可以应用于时尚和零售行业，为用户提供一种新颖的试衣体验，让用户能够看到自己穿上不同服装的样子，而无需实际试穿。
 项目在 arXiv 上发布了相关的研究论文 《OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on》，供有兴趣的研究者和开发者进一步了解和引用。
 ## 41、抓取网站转化成
 + https://github.com/mendableai/firecrawl
+
 Firecrawl 是由 mendable.ai 开源，目前处于早期开发阶段，对于希望利用 LLM 进行内容分析或生成的开发者来说可能是一个有用的工具。
 这是一个 API 服务，它能够抓取一个网站并将其转换为适用于大型语言模型（LLM）的清晰  Markdown 格 式。该服务旨在通过使用干净的数据来提升LLM响应的准确性。
 它的主要功能如下：
@@ -174,5 +176,34 @@ API服务: 提供易于使用的API
 SDK支持: 提供 Python 和 Node 的 SDK，以及与 Langchain 的集成。
 ## 42、AI 角色扮演
 + https://github.com/SillyTavern/SillyTavern
+
 SillyTavern 一个基于 AI 的角色扮演开源项目，你可以自己创建妹子，通过聊天或角色扮演与自定义的角色进行互动、聊天。
 该开源项目提供了Windows、Linux、MacOS 以及 Android 的安装指南。支持多个 AI 后端，包括 KoboldAI、Horde、NovelAI、Ooba、OpenAI 等。
+## 43、Llama 3 是 Meta 发布的最新大型语言模型，旨在让个人、创作者、研究人员和各种规模的企业能够负责任地试验、创新和扩展他们的想法。
++ https://github.com/meta-llama/llama3
+## 44、知识库问答系统
++ https://github.com/1Panel-dev/MaxKB
+
+MaxKB 是一个基于大型语言模型（LLM）的知识库问答系统，旨在成为企业的“最强大脑”，由开发者  1Panel-dev 开源，目前已经获得了 2.9k 的 Star。这个是该开源项目的特性：
+开箱即用：支持上传文档和自动爬取在线文档，文本自动拆分和向量化，提供良好的智能问答交互体验。
+无缝嵌入：可以快速嵌入到第三方业务系统中，无需编码。
+多模型支持：支持多种主流的大型模型，包括本地私有模型和云服务模型。
+
+## 45、构建 AI 助手的框架
++ https://github.com/phidatahq/phidata
+
+Phidata 是一个用于构建具有记忆、知识和工具的AI助手的框架，用来解决大型语言模型（LLM）上下文限制和无法执行操作的问题。他的工作原理如下：
+记忆：通过数据库存储聊天历史，使LLM能够进行长期对话。
+知识：通过向量数据库存储信息，为LLM提供上下文。
+工具：使LLM能够执行如从API提取数据、发送电子邮件或查询数据库等操作
+
+## 46、开源的 RAG 引擎
++ https://github.com/infiniflow/ragflow
+
+RAGFlow 是由开发者 infiniflow 开源，目前已经获得了 5.2K 的 Star。该项目是一个开源的 RAG（Retrieval-Augmented Generation，检索增强生成）引擎，基于深度文档理解，为不同规模的企业提供简化的 RAG 工作流程。
+它由如下关键特性：
+高质量输入输出: 从复杂格式的非结构化数据中进行深度文档理解并提取知识。
+模板化分块: 提供智能且可解释的模板选项。
+基于引用的引用: 减少幻觉，通过可视化的文本分块允许人工干预，快速查看关键引用和可追溯的引用来支持基于事实的答案。
+异构数据源兼容性: 支持 Word、PPT、Excel、TXT、图像、扫描副本、结构化数据、网页等。
+自动化 RAG 工作流: 提供为个人和大型企业量身定制的简化 RAG 编排，包括可配置的 LLM 和嵌入模型，多重召回与融合重排，以及与业务无缝集成的直观 API。
