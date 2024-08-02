@@ -208,5 +208,6 @@ RAGFlow 是由开发者 infiniflow 开源，目前已经获得了 5.2K 的 Star�
 异构数据源兼容性: 支持 Word、PPT、Excel、TXT、图像、扫描副本、结构化数据、网页等。
 自动化 RAG 工作流: 提供为个人和大型企业量身定制的简化 RAG 编排，包括可配置的 LLM 和嵌入模型，多重召回与融合重排，以及与业务无缝集成的直观 API。'
 
-## 47、chromium 源代码
+## 47、chromium 源代码 以及v8代码
 + https://github.com/chromium/chromium.git
++ https://github.com/v8/v8.git
